@@ -2,9 +2,6 @@
 
 ## Wumpus World AI Agent Implementation
 
-**Date:** May 1, 2026  
-**Project:** Wumpus World with Propositional Logic & Resolution Engine  
-**Author:** AI Team
 
 ---
 
